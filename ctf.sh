@@ -1,6 +1,6 @@
 echo 'PCDC{B@$e641t}' | base64 > flag1.txt
 
-sudo chmod u+s /usr/bin/find
+sudo chmod u+s /usr/bin/zip
 echo 'PCDC{G00taG3tR00t1st}' > flag5.txt
 
 # hidden_flag_server.py
